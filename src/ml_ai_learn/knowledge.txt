@@ -1,0 +1,40 @@
+
+    "NovaTech Solutions working hours are 9:30 AM to 6:30 PM, Monday to Friday. Employees work 8 hours daily excluding a one-hour lunch break.",
+
+    "The lunch break at NovaTech Solutions is from 1:00 PM to 2:00 PM.",
+
+    "Employees may start work between 8:00 AM and 11:00 AM with manager approval, provided they complete their required working hours.",
+
+    "NovaTech Solutions provides 12 casual leave days per year.",
+
+    "NovaTech Solutions provides 10 sick leave days per year. Medical documentation may be requested for extended absence.",
+
+    "NovaTech Solutions provides 15 earned or privilege leave days per year.",
+
+    "Unused earned leave can be carried forward up to a maximum of 30 days. Casual leave and sick leave cannot be carried forward.",
+
+    "Planned leave should generally be requested at least 3 working days in advance. Emergency leave should be reported to the manager as soon as possible.",
+
+    "NovaTech Solutions employees work from home on Monday and Friday. Tuesday, Wednesday and Thursday are mandatory office days.",
+
+    "Additional work-from-home days require manager approval.",
+
+    "NovaTech Solutions credits salaries on the last working day of each month.",
+
+    "NovaTech Solutions offers gym reimbursement up to Rs 3000 per month.",
+
+    "NovaTech Solutions offers home internet reimbursement up to Rs 1500 per month.",
+
+    "Employees receive a learning and certification allowance of Rs 12000 per year.",
+
+    "NovaTech Solutions has a standard probation period of 6 months.",
+
+    "The notice period for confirmed employees is 60 days. The notice period for employees on probation is 15 days.",
+
+    "NovaTech Solutions employees receive 10 days of paternity leave, subject to eligibility and company policy.",
+
+    "Maternity leave is provided according to applicable law and statutory eligibility.",
+
+    "Reimbursement claims should be submitted by the 5th of the following month with valid bills.",
+
+    "Employees must protect confidential company information and must not share passwords."
